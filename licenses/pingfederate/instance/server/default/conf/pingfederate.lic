@@ -1,0 +1,13 @@
+ID=1259064
+Organization=68
+Product=PingFederate
+Version=9.3
+IssueDate=2019-06-7
+EnforcementType=3
+ExpirationDate=2019-07-7
+Tier=Free
+SaasProvisioning=true
+WSTrustSTS=true
+OAuth=true
+SignCode=FF07
+Signature=302D021500889E4B786AE56FDB8655CDC3F6FE4C1FED08CB18021470AFBA540E9AD0CF9688F1EC2265058A51CF96DB
